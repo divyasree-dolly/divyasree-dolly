@@ -15,6 +15,8 @@ I’m a builder at heart — someone who loves turning ideas into deployable, ma
 With over **4.5 years of experience** across startups and enterprise environments, I specialize in **Java**, **Spring Boot**, **React**, **Angular**, **Android Studio** , and **cloud platforms** like **AWS**. I’ve shipped full-stack applications, optimized cloud runtimes, fixed security issues, and automated pipelines — all while learning something new every step of the way.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -66,7 +68,7 @@ With over **4.5 years of experience** across startups and enterprise environment
 > Chat-enabled system with real-time updates via WebSockets  
 **Tech:** React, PHP, REST API, WebSocket
 
-### 🔹 [ASL Gesture Game](https://github.com/divyasree-dolly/Dynamic-Hand-Gesture-Recognition))
+### 🔹 [ASL Gesture Game](https://github.com/divyasree-dolly/Dynamic-Hand-Gesture-Recognition)
 > Uses MediaPipe to recognize hand gestures & translate them into gameplay  
 **Tech:** Python, OpenCV, MediaPipe
 
