@@ -96,7 +96,7 @@ With over **4.5 years of experience** across startups and enterprise environment
 
 - 📧 **bingi.divyasree@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/divya-sree-5720a1158/)
-- 🌐 Portfolio Website coming soon...
+- 🌐 [Portfolio Website] (https://dbingi.netlify.app/)
 
 ---
 
