@@ -64,6 +64,10 @@ With over **4.5 years of experience** across startups and enterprise environment
 
 > These are not just codebases — they’re case studies of how I think, build, and iterate.
 
+### 🔹 [Smart Resume & Cover Letter Generator](https://github.com/divyasree-dolly/Smart-Resume-Cover-Letter-Generator)
+> Developed AI-powered web application using Streamlit and OpenAI GPT-4 API to generate tailored cover letters and enhanced resume bullet points, implemented secure PDF/DOCX file processing with PyPDF2 and python-docx libraries, integrated real-time document preview and download functionality with responsive user interface design.
+**Tech:** Python, Streamlit, OpenAI GPT-4 API, PyPDF2, python-docx, Streanlit Cloud
+
 ### 🔹 [URM Management App](https://github.com/divyasree-dolly/URM-App)
 > Chat-enabled system with real-time updates via WebSockets  
 **Tech:** React, PHP, REST API, WebSocket
